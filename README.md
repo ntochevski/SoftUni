@@ -1,2 +1,2 @@
-## SoftUni
-#Homework in software university.
+# SoftUni
+Homework in software university.
